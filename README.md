@@ -28,6 +28,7 @@ maybe rgb if i feel like it
 ![Case Bottom](Images/CaseBottom.png)
 ![Case Mid](Images/Casemid.png)
 ![PCB](Images/PCB.png)
+![schematic](Images/schematic.png)
 
 BOM 
 Seeed XIAO RP2040
