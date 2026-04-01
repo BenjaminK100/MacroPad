@@ -23,3 +23,7 @@ smoother animations
 different modes depending on what i’m doing
 proper linux integration instead of basic shortcuts
 maybe rgb if i feel like it
+![build](Images/Screenshot 2026-03-31 214933.png)
+![schematic](Images/Screenshot 2026-03-31 215146.png)
+![pcb](Images/Screenshot 2026-03-31 215647.png)
+![case](Images/Screenshot 2026-03-31 215726.png)
