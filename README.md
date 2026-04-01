@@ -24,7 +24,7 @@ different modes depending on what i’m doing
 proper linux integration instead of basic shortcuts
 maybe rgb if i feel like it
 
-![Case Bottom](Images/CaseBottom.png)
 ![Full Case](Images/Casefull.png)
+![Case Bottom](Images/CaseBottom.png)
 ![Case Mid](Images/Casemid.png)
 ![PCB](Images/PCB.png)
