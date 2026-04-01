@@ -28,3 +28,8 @@ maybe rgb if i feel like it
 ![Case Bottom](Images/CaseBottom.png)
 ![Case Mid](Images/Casemid.png)
 ![PCB](Images/PCB.png)
+
+BOM 
+Seeed XIAO RP2040
+1N4148 Diodes, 12, MX-Style switches, 12  MX-Style switches,0.91 inch OLED display, keycaps, 4x M3x16mm 
+4x M3x5mx4mm heatset inserts
